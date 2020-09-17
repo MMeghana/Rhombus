@@ -9,6 +9,6 @@ public class Rhombus
 	  int d1 = sc.nextInt();
 	  int d2 = sc.nextInt();
 	  double a = (1.0/2.0)*d1*d2;
-	  System.out.println("Area of Rhombus = "+a);
+	  System.out.println("Area of Rhombus : "+a);
 	}
 }
